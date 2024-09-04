@@ -43,6 +43,8 @@ Typical urbanist topics are always of interest to me including housing justice, 
 
 The urban technology program at the University of Michigan is aimed to study the digitization of cities, and the various different aspects of that concept. From technical feasibility, to equity, there is far more to the concept than just traffic lights. One can hope that in our ever increasing reliance on technology for everyday tasks and processes, our institutions of government, economies and communities will think deeper around the technology present in each. UT students are here to ensure those ideas are thought of in time, before things get too out of hand in a technological urban future.
 
+***
+
 *Thanks for reading. This is my first ever blog post! I am aiming to post a piece every month on topics relating to urban planning/technology, transportation, public policy, socio-economics, and more. I hope you'll follow along for more.*
 
-*Feedback on my writing is always welcomed and appreciated. You can reach me through this eeee-snail: technotional (AT) protonmail (DOT) com*
+*Feedback on my writing is always welcomed and appreciated. You can reach me through the social accounts linked in the bottom of the side-bar.*
