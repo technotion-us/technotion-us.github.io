@@ -1,9 +1,8 @@
 ---
-title: "The U-M Transportation 2050 Vision Plan: good intentions with  fractured implementation"
+title: "The U-M 2050 Transit Plan: Good Intentions With Fractured Implementation"
 date: 2024-10-22 20:00:00 +0800
 categories: [Urbanism Mobility/Transportation]
-tag: Project RIDER
-tag: University of Michigan
+tag: Project RIDER, University of Michigan
 toc: false
 comments: false
 ---
@@ -21,6 +20,6 @@ Urbanism Club wants to help the University and the supporting regional agencies 
 
 *Thanks for reading. This is my second ever blog post! I am aiming to post a piece every month on topics relating to urban planning/technology, transportation, public policy, socio-economics, and more. I hope you'll follow along for more.*
 
-*This post will also be shared on Micropolis, the offical blog for Urbanism Club at the University of Michigan. Take a look at the other posts in the series on the Campus 2050 Plan if you are interested in more!*
+*This post will also be shared on [Micropolis](https://www.umichurbanism.com/micropolis), the offical blog for Urbanism Club at the University of Michigan. Take a look at the other posts in the series on the Campus 2050 Plan if you are interested in more!*
 
 *Feedback on my writing is always welcomed and appreciated. You can reach me through the social accounts linked in the bottom of the side-bar.*
