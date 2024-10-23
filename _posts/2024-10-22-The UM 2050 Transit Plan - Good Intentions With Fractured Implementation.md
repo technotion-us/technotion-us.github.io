@@ -1,8 +1,9 @@
 ---
+layout: post
 title: The UM 2050 Transit Plan - Good Intentions With Fractured Implementation
 date: 2024-10-22 20:00:00 +0800
-categories: [Urbanism] [Mobility/Transportation]
-tags: [Project RIDER] [University of Michigan]
+categories: [Mobility/Transportation, Urbanism]
+tags: [University of Michigan, Project RIDER]
 toc: false
 comments: false
 ---
