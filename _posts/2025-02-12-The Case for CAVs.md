@@ -2,7 +2,7 @@
 layout: post
 title: The Case for CAVs
 date: 2025-02-12 20:00:00 +0800
-categories: [Mobility/Transportation, Urbanism]
+categories: [Mobility/Transportation, Urban Tech]
 toc: false
 comments: false
 ---
