@@ -25,6 +25,6 @@ The makers and the shapers both need strong representation in the discussion and
 
 ***
 
-*Thanks for reading. This is my third ever blog post! I am aiming to post a piece every month on topics relating to urban planning/technology, transportation, public policy, socio-economics, and more. I hope you'll follow along for more.*
+*Thanks for reading. I am aiming to post a piece every month on topics relating to urban planning/technology, transportation, public policy, socio-economics, and more. I hope you'll follow along for more.*
 
 *Feedback on my writing is always welcomed and appreciated. You can reach me through the social accounts linked in the bottom of the side-bar.*
