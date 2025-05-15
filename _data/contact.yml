@@ -5,9 +5,6 @@
   icon: 'fab fa-mastodon'
   url:  'https://urbanists.social/@technotion'
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
-
 - type: linkedin
   icon: 'fab fa-linkedin'
   url:  'https://www.linkedin.com/in/jack-bernard-4a8129189/'
