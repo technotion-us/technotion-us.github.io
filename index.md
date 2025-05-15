@@ -10,6 +10,8 @@ This site contains my blog, previous work, thoughts, and experiments.
 
 > *Technology with a thoughtful, defined purpose... Technotion*
 
+![City](/assets/img/chicagobusy.jpg "Busy Chicago Cityscape, 2024"){: width="900"}
+
 ***
 
 ## Featured Posts
