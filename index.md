@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Home
 permalink: /
 ---
 
@@ -10,6 +9,8 @@ Hi, I’m Jack Bernard, an undergraduate student at the University of Michigan p
 This site contains my blog, previous work, thoughts, and experiments.
 
 > *Technology with a thoughtful, defined purpose... Technotion*
+
+***
 
 ## Featured Posts
 
@@ -24,7 +25,7 @@ This site contains my blog, previous work, thoughts, and experiments.
 ## Recent Posts
 
 <ul>
-  {% for post in site.posts limit:5 %}
+  {% for post in site.posts limit:20 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%B %d, %Y" }}
     </li>
